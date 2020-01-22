@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf6810f1-01a8-478e-8de5-b4410c5287b5" name="Default Changelist" comment="">
+    <list default="true" id="bf6810f1-01a8-478e-8de5-b4410c5287b5" name="Default Changelist" comment="file extraction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci_translator(20160829)_V1.0.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Wkc8cxxTpwQaIEJkkPaCC8KpWJ" />
   <component name="ProjectViewState">
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579696874174</updated>
-      <workItem from="1579696875454" duration="1123000" />
+      <workItem from="1579696875454" duration="1918000" />
     </task>
     <task id="LOCAL-00001" summary="file extraction">
       <created>1579697336644</created>
@@ -67,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579697336644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="file extraction">
+      <created>1579710603236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579710603236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,9 +87,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="file extraction" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="121" width="948" height="798" key="CommitChangelistDialog2" timestamp="1579697335001">
+    <state x="564" y="121" width="948" height="526" key="CommitChangelistDialog2" timestamp="1579711214556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="121" width="948" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579697335001" />
+    <state x="564" y="121" width="948" height="526" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579711214556" />
+    <state x="262" y="92" key="DiffContextDialog" timestamp="1579711137736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="262" y="92" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579711137736" />
+    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579711075669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579711075669" />
   </component>
 </project>
